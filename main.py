@@ -1,6 +1,6 @@
 import sys
 from PySide6.QtWidgets import QApplication, QMainWindow
-from mainmenu import Ui_MainWindow
+from UI.mainmenu import Ui_MainWindow
 
 # Application instance creation
 app = QApplication(sys.argv)
